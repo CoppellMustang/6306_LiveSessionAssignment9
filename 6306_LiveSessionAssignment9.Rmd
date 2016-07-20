@@ -133,3 +133,6 @@ We now use the more sophisticated STL method that is more robust to outliers to 
 fit_STL <- stl(visitors_MidOutlier,s.window=7)
 plot(fit_STL)
 ```
+
+
+please note the part two to the question is answered here (URL: https://github.com/CoppellMustang/6306_BLT9.5)

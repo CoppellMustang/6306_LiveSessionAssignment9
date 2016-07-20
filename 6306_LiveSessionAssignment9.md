@@ -183,3 +183,6 @@ plot(fit_STL)
 ```
 
 ![](6306_LiveSessionAssignment9_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+
+
+please note the part two to the question is answered here (URL: https://github.com/CoppellMustang/6306_BLT9.5)
